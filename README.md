@@ -1,4 +1,4 @@
-# This is the main title 
+# This is the main title
 
 ## This is another header
 
